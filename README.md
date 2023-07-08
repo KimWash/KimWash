@@ -5,8 +5,8 @@
 ### 📱 SNS/Contacts
 <a href="https://blog.kimwash.xyz">![Blog](https://img.shields.io/badge/Blog-E4405F?style=for-the-badge&logoColor=white)</a>
 <a href="mailto:ckm0728wash@gmail.com"><img src="https://img.shields.io/badge/Mail-E4405F?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ckm0728wash@gmail.com"/></a>
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![AppleMusic](https://img.shields.io/badge/apple%20music-E4405F?style=for-the-badge&logo=apple%20music&logoColor=white)
+<a href="https://www.instagram.com/gan_ggan_ggang">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://music.apple.com/profile/kimwash">![AppleMusic](https://img.shields.io/badge/apple%20music-E4405F?style=for-the-badge&logo=apple%20music&logoColor=white)</a>
 
 ### 🛠️ Skills
 - Language
