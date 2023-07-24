@@ -42,7 +42,7 @@
 - 아직 준비중인 내용이에요.
 
 ### 🧑‍🤝‍🧑 Organizations
-- <img src="https://i.namu.wiki/i/nXTCYO1tdgvv-JTjcIyhOrFoYf5ZF9uV3cuknF7UFHajMn_QmNxt4Zv-j7FiVYZA66Gs1GJ6mTZMwwRjMxbKc98ljLDyOvSEmlle1vG0GeJdrixubor37syIT4D70X-_LcWFaMs8Bb5VJ9ou9JoDtw.svg" width="20" height="20"> 인천대학교 컴퓨터공학부 2학년 2021.03 ~
+- <img src="./inu_logo.svg" width="20" height="20"> 인천대학교 컴퓨터공학부 2학년 2021.03 ~
 - <a href="https://home.inuappcenter.kr/ourteam/android?year=2022"><img src="https://home.inuappcenter.kr/favicon.ico" width="20" height="20"> 인천대학교 앱센터 14기 2022.04 ~</a>
 - <a href="https://moberan.com"><img src="https://moberan.com/favicon.ico" width="20" height="20"> 모베란 인턴 2022.09 ~</a>
 - <a href="https://cozyllc.co.kr"><img src="https://cozyllc.co.kr/favicon.ico" width="20" height="20"> 코지 2020.03 ~</a>
