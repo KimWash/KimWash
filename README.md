@@ -39,11 +39,14 @@
 
 
 ### 📑 Projects
-- 아직 준비중인 내용이에요.
+- [H4Pay](http://cozyllc.co.kr/product/h4pay)
+- [iDorm](https://github.com/idorm/idorm-android)
+- [가보자잇](https://github.com/gabojait/gabojait-react-native)
 
 ### 🧑‍🤝‍🧑 Organizations
 - <img src="./inu_logo.svg" width="20" height="20"> 인천대학교 컴퓨터공학부 2학년 2022.03 ~
 - <a href="https://home.inuappcenter.kr/ourteam/android?year=2022"><img src="https://home.inuappcenter.kr/favicon.ico" width="20" height="20"> 인천대학교 앱센터 14기 2022.04 ~</a>
-- <a href="https://moberan.com"><img src="https://moberan.com/favicon.ico" width="20" height="20"> 모베란 인턴 2022.09 ~</a>
+- <a href="https://moberan.com"><img src="https://moberan.com/favicon.ico" width="20" height="20"> 모베란 인턴 2022.09 ~ 2023.11</a>
 - <a href="https://cozyllc.co.kr"><img src="https://cozyllc.co.kr/favicon.ico" width="20" height="20"> 코지 2020.03 ~</a>
+- 현재 군복무중
 
