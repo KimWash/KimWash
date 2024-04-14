@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimWash&show_icons=true&theme=radical)
 
+[![wakatime](https://wakatime.com/badge/user/40e4a5a3-dab7-482e-af61-3b9479f208c3.svg)](https://wakatime.com/@40e4a5a3-dab7-482e-af61-3b9479f208c3)
+
 ### 📱 SNS/Contacts
 <a href="https://blog.kimwash.xyz">![Blog](https://img.shields.io/badge/Blog-E4405F?style=for-the-badge&logoColor=white)</a>
 <a href="mailto:ckm0728wash@gmail.com"><img src="https://img.shields.io/badge/Mail-E4405F?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ckm0728wash@gmail.com"/></a>
