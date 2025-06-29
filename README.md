@@ -50,5 +50,4 @@
 - <a href="https://home.inuappcenter.kr/ourteam/android?year=2022"><img src="https://home.inuappcenter.kr/favicon.ico" width="20" height="20"> 인천대학교 앱센터 14기 2022.04 ~</a>
 - <a href="https://moberan.com"><img src="https://moberan.com/favicon.ico" width="20" height="20"> 모베란 인턴 2022.09 ~ 2023.11</a>
 - <a href="https://cozyllc.co.kr"><img src="https://github.com/COZYLLC.png" width="20" height="20"> 코지 2020.03 ~ 2024.07 </a>
-- 현재 군복무중
 
