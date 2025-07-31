@@ -44,6 +44,7 @@
 - [H4Pay](http://cozyllc.co.kr/product/h4pay)
 - [iDorm](https://github.com/idorm/idorm-android)
 - [가보자잇](https://github.com/gabojait/gabojait-react-native)
+- [INUnity](http://github.com/inunity-for-UNI)
 
 ### 🧑‍🤝‍🧑 Organizations
 - <img src="./inu_logo.svg" width="20" height="20"> 인천대학교 컴퓨터공학부 2학년 2022.03 ~
