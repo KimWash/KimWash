@@ -47,7 +47,7 @@
 - [INUnity](http://github.com/inunity-for-UNI)
 
 ### 🧑‍🤝‍🧑 Organizations
-- <img src="./inu_logo.svg" width="20" height="20"> 인천대학교 컴퓨터공학부 2학년 2022.03 ~
+- <img src="./inu_logo.svg" width="20" height="20"> 인천대학교 컴퓨터공학부 3학년 2022.03 ~
 - <a href="https://home.inuappcenter.kr/ourteam/android?year=2022"><img src="https://home.inuappcenter.kr/favicon.ico" width="20" height="20"> 인천대학교 앱센터 14기 2022.04 ~</a>
 - <a href="https://moberan.com"><img src="https://moberan.com/favicon.ico" width="20" height="20"> 모베란 인턴 2022.09 ~ 2023.11</a>
 - <a href="https://cozyllc.vercel.app"><img src="https://github.com/COZYLLC.png" width="20" height="20"> 코지 2020.03 ~ 2024.07 </a>
