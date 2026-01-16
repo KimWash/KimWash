@@ -9,7 +9,7 @@
 <a href="https://music.apple.com/profile/kimwash">![AppleMusic](https://img.shields.io/badge/apple%20music-E4405F?style=for-the-badge&logo=apple%20music&logoColor=white)</a>
 
 ### 🛠️ Skills
-> 상단에 있을 수록 상대적으로 숙련된 기술입니다
+> 좌측에 있을 수록 상대적으로 숙련된 기술입니다
 - Language
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
